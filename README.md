@@ -16,11 +16,11 @@
 ## 如何运行
 
 1. 安装依赖:
-   ```bash
+  ```bash
  pip install -r requirements.txt
    
 2.配置钉钉 Token: 打开 utbot.py，将 DINGTALK_WEBHOOK 替换为你自己的机器人链接。
 
-3.启动
+3.启动:
  ```bash
 python utbot.py
