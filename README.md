@@ -18,6 +18,6 @@
 1. 安装依赖:
    ```bash
    pip install -r requirements.txt
-   # 示例：
-DINGTALK_WEBHOOK = "[https://oapi.dingtalk.com/robot/send?access_token=你的TOKEN](https://oapi.dingtalk.com/robot/send?access_token=你的TOKEN)"
-python utbot.py
+2. 配置钉钉 Token: 打开 utbot.py，将 DINGTALK_WEBHOOK 替换为你自己的机器人链接。
+3. 启动:
+   python utbot.py
