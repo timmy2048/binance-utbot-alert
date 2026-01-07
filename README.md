@@ -18,7 +18,7 @@
 1. **安装依赖**
    请确保已安装 Python 3.x，然后在终端运行：
    ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 2.配置钉钉 Token 打开 utbot.py 文件，找到 DINGTALK_WEBHOOK 变量，将其替换为你自己的机器人链接
 
