@@ -14,7 +14,6 @@
 - **Heikin Ashi**: False (使用真实 K 线)
 
 ## 如何运行
-
 1. 安装依赖:
    ```bash
    pip install -r requirements.txt
